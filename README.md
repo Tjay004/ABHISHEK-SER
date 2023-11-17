@@ -4,7 +4,7 @@
   
 <p align="center">  
   <a href="https://youtube.com/@comedymelodych8468">
-    <img alt=ABHISHEK-SER height="300" src="https://replicate.delivery/pbxt/QbP6Fh3ZXwKON9SCB70ERGwwgeeSbztwKIOIzhUeXFkwnFHiA/out.png">
+    <img alt=metro tjayheight="300" src="https://replicate.delivery/pbxt/QbP6Fh3ZXwKON9SCB70ERGwwgeeSbztwKIOIzhUeXFkwnFHiA/out.png">
    
 </a> 
     
@@ -13,7 +13,7 @@
 <a 
 
 ####  
-metro tjay-SER Multi Device Whatsapp Bot.
+metro tjay-Multi Device Whatsapp Bot.
 
 ***
 
@@ -21,7 +21,7 @@ metro tjay-SER Multi Device Whatsapp Bot.
 
 1. Fork The Repo
     <br>
-<a href="https://github.com/AbhishekSuresh2/ABHISHEK-SER/fork"><img title="ABHISHEK-SER" src="https://img.shields.io/badge/FORK ABHISHEK SER-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/AbhishekSuresh2/ABHISHEK-SER/fork"><img title="metro tjay" src="https://img.shields.io/badge/FORK ABHISHEK SER-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 2. Scan The Qr Code And Upload abhi.data.json To Your Fork🎯(Will Recieve It On Your Bot Number After Scanning)
     <br>
@@ -29,7 +29,7 @@ metro tjay-SER Multi Device Whatsapp Bot.
 
 
 
-##Metro tjay-SER Deploy Method
+##Metro tjay- Deploy Method
 
 -------
 
