@@ -35,7 +35,7 @@ metro tjay-Multi Device Whatsapp Bot.
 
 ### Deploy Codespace
 
-<a href="https://github.com/codespaces/new"><img title="ABHISHEK-SER Deploy CodeSpace" src="https://img.shields.io/badge/DEPLOY CODESPACE-h?color=black&style=for-the-badge&logo=visualstudiocode"></a>
+<a href="https://github.com/codespaces/new"><img title="metro tjay Deploy CodeSpace" src="https://img.shields.io/badge/DEPLOY CODESPACE-h?color=black&style=for-the-badge&logo=visualstudiocode"></a>
 
 ---
 ### Deploy Heroku 
